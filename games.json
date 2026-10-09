@@ -113,5 +113,24 @@
     "pkg": "com.game.dontthinknormal",
     "privacy": null,
     "ios": false
+  },
+  {
+    "id": "color-sudoku-garden",
+    "name": "Color Sudoku Garden",
+    "zh": "彩色数独花园",
+    "category": [
+      "Flower sudoku",
+      "花朵数独"
+    ],
+    "en": "Let logic bloom. Solve 50 flower sudoku puzzles, collect seeds and grow a garden across five colorful themes.",
+    "cn": "让逻辑与花朵一同绽放。挑战 50 个花朵数独关卡，收集种子，在五种主题中打造自己的花园。",
+    "tag": [
+      "50 puzzles · 5 garden themes",
+      "50 个关卡 · 5 种花园主题"
+    ],
+    "color": "#e7f1db",
+    "pkg": null,
+    "privacy": "/game-privacy-policies/color-sudoku-garden/",
+    "ios": true
   }
 ]
