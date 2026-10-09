@@ -1,0 +1,117 @@
+[
+  {
+    "id": "mint",
+    "name": "Mint: Unblock Car Puzzle",
+    "zh": "薄荷汽车突围",
+    "category": [
+      "Sliding puzzle",
+      "滑块解谜"
+    ],
+    "en": "A little room. A clever escape. Slide the cars, clear a path for the red car, and find your way through 99 parking puzzles.",
+    "cn": "在清新的薄荷小城里，滑动车辆，为红色小车让出通道。挑战 99 道挪车谜题，用更少的步数摘下星星。",
+    "tag": [
+      "99 puzzles · Little cars, big ideas",
+      "99 道谜题 · 小汽车，大巧思"
+    ],
+    "color": "#dceee2",
+    "pkg": "com.carescape.sprint1",
+    "privacy": "/game-privacy-policies/mint-unblock-car-puzzle/",
+    "ios": true
+  },
+  {
+    "id": "color-dock",
+    "name": "Color Dock: Cargo Puzzle",
+    "zh": "彩色码头：货柜谜题",
+    "category": [
+      "Color sorting",
+      "色彩分类"
+    ],
+    "en": "Make room at a colorful harbor. Slide containers to matching exits, plan each move, and enjoy the moment the dock clears.",
+    "cn": "把彩色货柜送往同色出口，安排每一步的先后顺序。在 99 个关卡里，一点点腾出空间，享受清空码头的成就感。",
+    "tag": [
+      "99 puzzles · 4 harbor themes",
+      "99 个关卡 · 4 种港口主题"
+    ],
+    "color": "#e0eafa",
+    "pkg": null,
+    "privacy": "/game-privacy-policies/color-dock/",
+    "ios": true,
+    "details": "/color-dock.html"
+  },
+  {
+    "id": "lift-dock",
+    "name": "Lift Dock: Anime Sort Puzzle",
+    "zh": "升降机分类与插画收藏",
+    "category": [
+      "Sorting & collecting",
+      "分类与收集"
+    ],
+    "en": "A small lift with a big job. Send colorful crates to their matching exits and unlock a new illustration with every completed level.",
+    "cn": "小小升降机，装着大大的挑战。合理安排彩色货箱的顺序，送往同色出口；每过一关，解锁一张新的收藏插画。",
+    "tag": [
+      "50 levels · 50 illustrations",
+      "50 个关卡 · 50 张插画"
+    ],
+    "color": "#eee3f4",
+    "pkg": "com.liftdock.sortlite",
+    "privacy": "/lift-dock-sort-lite-config/",
+    "ios": false
+  },
+  {
+    "id": "critter-zones",
+    "name": "Critter Zones",
+    "zh": "像素萌宠逻辑谜题",
+    "category": [
+      "Cozy logic",
+      "治愈逻辑"
+    ],
+    "en": "Settle into cozy logic puzzles, collect pixel pets, and return for a fresh daily challenge. A little thinking, a little company.",
+    "cn": "在轻松的逻辑谜题里慢慢思考，收集可爱的像素萌宠，再来一局每日挑战。让解谜时光，多一点陪伴。",
+    "tag": [
+      "Pixel pets · Daily challenges",
+      "像素萌宠 · 每日挑战"
+    ],
+    "color": "#f2e8d5",
+    "pkg": "com.critterzones.puzzle",
+    "privacy": null,
+    "ios": false
+  },
+  {
+    "id": "cargo-loop",
+    "name": "Cargo Loop: Baggage Sort",
+    "zh": "机场行李分拣",
+    "category": [
+      "Sorting puzzle",
+      "分类解谜"
+    ],
+    "en": "Every bag has a flight to catch. Dispatch trucks, match luggage to planes, and keep a busy airport conveyor moving.",
+    "cn": "每件行李，都有要赶上的航班。选择卡车的出发顺序，把彩色行李送上对应飞机，在有限的传送带空间里规划下一步。",
+    "tag": [
+      "99 puzzles · One busy airport",
+      "99 道谜题 · 一座忙碌的小机场"
+    ],
+    "color": "#f8e2d8",
+    "pkg": "com.jocelyn.cargoloop",
+    "privacy": null,
+    "ios": false
+  },
+  {
+    "id": "dont-think-normal",
+    "name": "Don't Think Normal: Puzzles",
+    "zh": "换个思路，答案就不一样",
+    "category": [
+      "Brain teasers",
+      "脑洞解谜"
+    ],
+    "en": "Your first answer might be too obvious. Tap, drag, and tilt your way through 60 playful puzzles with unexpected solutions.",
+    "cn": "第一眼想到的答案，也许太普通了。试试点击、拖动和倾斜手机，在 60 道脑洞谜题里，发现意料之外的解法。",
+    "tag": [
+      "60 puzzles · Unexpected answers",
+      "60 道谜题 · 意想不到的答案"
+    ],
+    "color": "#e9e7f9",
+    "pkg": "com.game.dontthinknormal",
+    "privacy": null,
+    "ios": false
+  }
+]
