@@ -132,5 +132,25 @@
     "pkg": null,
     "privacy": "/game-privacy-policies/color-sudoku-garden/",
     "ios": true
+  },
+  {
+    "id": "whistle-meadow",
+    "name": "Whistle Meadow",
+    "zh": "木质小火车解谜",
+    "category": [
+      "Railway puzzles",
+      "铁路解谜"
+    ],
+    "en": "Rotate tracks and guide a wooden toy train through 50 puzzles across five worlds. One purchase, offline play, no ads or in-app purchases.",
+    "cn": "旋转轨道，带领木质小火车挑战五个世界的 50 个谜题。一次购买，离线游玩，无广告、无内购。",
+    "tag": [
+      "50 puzzles · Wooden toy trains",
+      "50 个关卡 · 木质玩具火车"
+    ],
+    "color": "#e4eddb",
+    "pkg": null,
+    "privacy": "/game-privacy-policies/whistle-meadow/",
+    "ios": false,
+    "android_soon": true
   }
 ]
