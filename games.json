@@ -172,5 +172,26 @@
     "privacy": "/game-privacy-policies/tiny-track-escape/",
     "ios": false,
     "android_soon": true
+  },
+  {
+    "id": "maze-toy-adventure",
+    "name": "Maze Toy Adventure",
+    "zh": "玩具迷宫大冒险",
+    "category": [
+      "Toy maze puzzle",
+      "玩具迷宫解谜"
+    ],
+    "en": "Join a smiling red block through 50 colorful toy mazes. Find the green goal, discover keys and gates, and explore at your own pace with free hints and Undo.",
+    "cn": "和微笑的小红块探索 50 个缤纷玩具迷宫。寻找绿色终点，发现钥匙和门，在不限次提示和撤销的帮助下，按自己的节奏前进。",
+    "tag": [
+      "Toyloom Games · 50 puzzles · Offline",
+      "Toyloom Games · 50 关 · 离线游玩"
+    ],
+    "color": "#c9efff",
+    "pkg": null,
+    "privacy": "/game-privacy-policies/maze-toy-adventure/",
+    "details": "/maze-toy-adventure/",
+    "ios": false,
+    "android_soon": true
   }
 ]

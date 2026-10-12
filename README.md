@@ -18,3 +18,5 @@ The earlier Color Dock landing page is preserved at `/color-dock.html`. Privacy 
 ## Content sources
 
 Game names, artwork and summaries are based on the developer’s existing store assets and public Google Play listings. Color Dock and Mint iOS releases are marked coming soon pending review. Icons for live Android games match their public store listings.
+
+Maze Toy Adventure is listed as in development / Google Play coming soon, with no invented store package or iOS availability. Its Toyloom Games detail pages are at `/maze-toy-adventure/` and `/maze-toy-adventure/zh.html`; screenshots are identified as native Godot development captures.
