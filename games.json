@@ -152,5 +152,25 @@
     "privacy": "/game-privacy-policies/whistle-meadow/",
     "ios": false,
     "android_soon": true
+  },
+  {
+    "id": "tiny-track-escape",
+    "name": "Tiny Track: Train Puzzle",
+    "zh": "小小轨道：火车解谜",
+    "category": [
+      "Train puzzle",
+      "火车解谜"
+    ],
+    "en": "Slide colorful track tiles, connect a route, and send your little train on its way. Explore 30 puzzles with Toyloom Games, with offline play and no ads.",
+    "cn": "移动彩色轨道块，连接路线，让小火车顺利到站。与 Toyloom Games 一起挑战 30 个谜题，离线游玩，无广告打扰。",
+    "tag": [
+      "30 puzzles · Toyloom Games",
+      "30 个关卡 · Toyloom Games"
+    ],
+    "color": "#e0f3ff",
+    "pkg": null,
+    "privacy": "/game-privacy-policies/tiny-track-escape/",
+    "ios": false,
+    "android_soon": true
   }
 ]
